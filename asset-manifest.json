@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/three-js-react-typescript-template/static/css/main.d75c3c4b.css",
+    "main.js": "/three-js-react-typescript-template/static/js/main.d7fddfc8.js",
+    "index.html": "/three-js-react-typescript-template/index.html",
+    "main.d75c3c4b.css.map": "/three-js-react-typescript-template/static/css/main.d75c3c4b.css.map",
+    "main.d7fddfc8.js.map": "/three-js-react-typescript-template/static/js/main.d7fddfc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75c3c4b.css",
+    "static/js/main.d7fddfc8.js"
+  ]
+}
