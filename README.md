@@ -7,10 +7,8 @@ npm install
 
 npm run start
 ```
+## live
+[Live](https://mrunalsawant.github.io/three-js-react-typescript-template/)
 
 ## demo
 ![AYHWob8cal](https://user-images.githubusercontent.com/25613253/162580650-abf4fdcb-78e1-45eb-9848-c9949cdcfb8d.gif)
-
-
-##live
-[Live](https://mrunalsawant.github.io/three-js-react-typescript-template/)
